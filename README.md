@@ -24,4 +24,4 @@ CL settling time for 1 % error: < 100 ns
 
 Application: negative feedback inverting topology using capacitive network of Cin= 2 pF, CF= 1 pF.
 
-Designed using gm/id design methodology on Analog designer's toolbox (ADT) and open & closed-loop simulations on Cadence virtuoso.
+Designed using gm/ID methodology with Analog Designer's Toolbox (ADT) and simulated using xschem with ngspice codes.
